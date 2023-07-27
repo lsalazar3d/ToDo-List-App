@@ -1,7 +1,12 @@
 # ToDo-List-App
 
-Hello everyone, this is a very simple example I've worked while completing Week #14 of our program with MiT Xpro's Full Stack Mern Programmer.
+Hello everyone, this a Create ToDo list Application for my Week #14 Full Stack Mern program with MiT Xpro Full Stack Mern.
 
-It allows the user to input a To-Do List and to remove it by clicking on the items.
+It includes the following features:
+  - OnClick event handler and elements
+  - Styled ToDo List
+  - React States
+
+It is truly a great exercise and a great learning experience.
 
 Enjoy!
