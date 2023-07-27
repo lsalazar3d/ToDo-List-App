@@ -50,7 +50,7 @@ The following tools were used in this project:
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/matiaspdr" target="_blank">Matias Parga del Rio</a>
+Made by <a href="https://github.com/lsalazar3d" target="_blank">Luis Salazar</a>
 
 &#xa0;
 
